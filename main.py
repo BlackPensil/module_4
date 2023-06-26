@@ -6,4 +6,3 @@ if __name__ == "__main__":
     inp = input('Введите слово: ')
     print(rotate(inp))
 
-
